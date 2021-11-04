@@ -1,0 +1,37 @@
+/*  font-family: Abel  */
+@font-face {
+    font-family: Abel;
+    src: url('../fonts/Abel/Abel-Regular.ttf');
+}
+
+/*  font-family: Anton  */
+@font-face {
+    font-family: Anton;
+    src: url('../fonts/Anton/Anton-Regular.ttf');
+}
+
+/*  font-family: Architects_Daughter  */
+@font-face {
+    font-family: Architects_Daughter;
+    src: url('../fonts/Architects_Daughter/Architects_Daughter-Regular.ttf');
+}
+@font-face {
+    font-family: Caveat;
+    src: url('../fonts/Caveat/Caveat-Regular.ttf');
+}
+@font-face {
+    font-family: Dancing_Script;
+    src: url('../fonts/Dancing_Script/Dancing_Script-Regular.ttf');
+}
+
+/*  font-family: Lexend  */
+@font-face {
+    font-family: Lexend;
+    src: url('../fonts/Lexend_Deca/LexendDeca-Regular.ttf');
+}
+
+/*  font-family: Livvic  */
+@font-face {
+    font-family: Livvic;
+    src: url('../fonts/Livvic/Livvic-Regular.ttf');
+}
