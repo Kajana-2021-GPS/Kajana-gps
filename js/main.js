@@ -67,9 +67,6 @@ new Swiper('.swiper-container', {
           modifier: 1,
           slideShadows: true,
         },
-        pagination: {
-          el: ".swiper-pagination",
-        },
 
     // responsive brakpoints
     breakpoints : {
