@@ -58,7 +58,8 @@ ul{
 }
 
 h1{
-      font-family: var(--Caveat);
+    font-family: var(--Dancing_Script);
+      
     font-size: 2.5rem;
 }
 
@@ -68,7 +69,7 @@ h2{
 }
 
 h3{
-    font-family: var(--Dancing_Script);
+    font-family: var(--Caveat);
     font-size: 1.5rem;
 }
 
